@@ -7,11 +7,14 @@ Tugas Kelompok Flutter Cuaca :
 4. Muji Nur Fadillah
 5. Nanda Angelika 
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
+.
 
 
 # Tugas-akhir-Mobile-Programing
 
 ![image](https://github.com/imamulkr/Tugas_Akhir_Mobile_Programing/assets/154256171/d94c800b-317a-40ce-86bd-fbe3c838e93e)
+
+
+
+
+![image](https://github.com/imamulkr/Tugas_Akhir_Mobile_Programing/assets/154256171/87cfa4bb-3e87-4718-a92c-cd9fa6e01ccb)
